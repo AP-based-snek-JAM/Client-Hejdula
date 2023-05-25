@@ -1,2 +1,2 @@
 # Client-Hejdula
-Client for interacting with server
+Hejdulas client for interacting with server
